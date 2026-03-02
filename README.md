@@ -13,9 +13,8 @@ The portfolio website highlights my skills, projects, and accomplishments as a *
 - **Contact Section:** Provides email, LinkedIn, GitHub links, and a contact form.
 
 ## Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, React.js (if used)
-- **Backend:** Node.js, Express.js (if any backend)
-- **Other Tools:** Git, GitHub, GitHub Pages for deployment, Figma for design (if used)
+- **Frontend:** HTML5, CSS3, JavaScript, React.js 
+- **Other Tools:** Git, GitHub, GitHub Pages for deployment
 
 ## Live Site:
 https://janhavipatharvat.github.io/janhavi-patharvat-portfolio/
