@@ -17,3 +17,6 @@ The portfolio website highlights my skills, projects, and accomplishments as a *
 - **Backend:** Node.js, Express.js (if any backend)
 - **Other Tools:** Git, GitHub, GitHub Pages for deployment, Figma for design (if used)
 
+## Live Site:
+https://janhavipatharvat.github.io/janhavi-patharvat-portfolio/
+
