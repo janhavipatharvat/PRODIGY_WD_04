@@ -1,6 +1,6 @@
-# PRODIGY_WD_04_PORTFOLIO
+# PORTFOLIO
 
-This repository contains my **Personal Portfolio Website**, developed as **Task 4** of my Web Development Internship at Prodigy Infotech.
+This repository contains my **Personal Portfolio Website**
 
 ## Overview
 The portfolio website highlights my skills, projects, and accomplishments as a **Computer Engineering student** and aspiring **Web Developer**. It is designed to be **visually appealing, responsive, and professional**, providing visitors with a clear understanding of my technical abilities and experience.
